@@ -44,11 +44,18 @@ El equipo está conformado por:
 
 El objetivo es comprender cómo evolucionan los delitos informáticos, su
 Distribución por regiones y cómo cambian en el tiempo.
-Preguntas guía:
-- ¿Qué delitos informáticos son más frecuentes?
-- ¿Qué departamentos concentran mayores incidentes?
-- ¿Ha aumentado la incidencia de ciberdelitos en los últimos años?
-- ¿Qué patrones geográficos o temporales existen?
+## Preguntas problemáticas 
+
+| Compañero | Gráfica Asignada | Pregunta Problemático |
+| :--- | :--- | :--- |
+| Andrés Padilla | Gráfico de Barras | ¿Qué tipos de delitos informáticos se presentan con mayor frecuencia según la descripción de la conducta registrada? |
+| Camila Rivera | Gráfico de Líneas | ¿Cómo ha evolucionado el número total de delitos informáticos a lo largo de los años según la fecha del hecho? |
+| Alejandro Soa | Gráfico de Pastel | ¿Cómo se distribuyen los casos de delitos informáticos entre los cinco departamentos con mayor número de registros? |
+| Nick Duran | Gráfico de Barras Apiladas | ¿Cómo varía el tipo de delito informático más común entre los diferentes departamentos del país? |
+| Andrés Padilla | Mapa Coroplético | ¿En qué departamentos o municipios se concentra geográficamente la mayor cantidad de delitos informáticos? |
+| Camila Rivera | Gráfico de Dispersión | ¿Existe alguna relación entre la cantidad de delitos informáticos registrados y el tiempo transcurrido entre los hechos? |
+
+
 
 ------------------------------------------------------------------------
 
