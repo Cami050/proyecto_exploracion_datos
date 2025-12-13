@@ -6,19 +6,19 @@
 
 Este proyecto tiene como objetivo analizar los delitos informáticos en
 Colombia utilizando el dataset oficial disponible en Datos Abiertos:
-"DELITOS INFORMÁTICOS" (https://www.datos.gov.co/Seguridad-y-Defensa/DELITOS-INFORM-TICOS/4v6r-wu98/about_data).\
-Se aplicará la metodología **ASUM‑DM**, desarrollando todas sus fases:\
-- Comprensión del negocio\
-- Comprensión de los datos\
-- Preparación de los datos\
-- Modelado\
-- Evaluación\
+"DELITOS INFORMÁTICOS" (https://www.datos.gov.co/Seguridad-y-Defensa/DELITOS-INFORM-TICOS/4v6r-wu98/about_data).
+Se aplicará la metodología **ASUM‑DM**, desarrollando todas sus fases:
+- Comprensión del negocio
+- Comprensión de los datos
+- Preparación de los datos
+- Modelado
+- Evaluación
 - Despliegue / Comunicación de resultados
 
-El equipo está conformado por:\
-- **Camila Rivera**\
-- **Andrés Padilla**\
-- **Alejandro Soa**\
+El equipo está conformado por:
+- **Camila Rivera**
+- **Andrés Padilla**
+- **Alejandro Soa**
 - **Nick Durán**
 
 ------------------------------------------------------------------------
@@ -43,11 +43,12 @@ El equipo está conformado por:\
 ## 3.1 Comprensión del Negocio
 
 El objetivo es comprender cómo evolucionan los delitos informáticos, su
-distribución por regiones y cómo cambian en el tiempo.\
-Preguntas guía: - ¿Qué delitos informáticos son más frecuentes? -
-¿Cuáles departamentos concentran mayores incidentes? - ¿Ha aumentado la
-incidencia de ciberdelitos en los últimos años? - ¿Qué patrones
-geográficos o temporales existen?
+Distribución por regiones y cómo cambian en el tiempo.
+Preguntas guía:
+- ¿Qué delitos informáticos son más frecuentes?
+- ¿Qué departamentos concentran mayores incidentes?
+- ¿Ha aumentado la incidencia de ciberdelitos en los últimos años?
+- ¿Qué patrones geográficos o temporales existen?
 
 ------------------------------------------------------------------------
 
@@ -56,21 +57,21 @@ geográficos o temporales existen?
 El dataset contiene: - **FECHA HECHO** - **DEPARTAMENTO / MUNICIPIO** -
 **DESCRIPCION CONDUCTA** - **CANTIDAD**
 
-Actividades: - Verificar valores faltantes\
-- Identificar inconsistencias en nombres de municipios/departamentos\
-- Revisar formatos de fechas\
-- Realizar primeras estadísticas descriptivas\
+Actividades: - Verificar valores faltantes
+- Identificar inconsistencias en nombres de municipios/departamentos
+- Revisar formatos de fechas
+- Realizar primeras estadísticas descriptivas
 - Identificar anomalías y patrones
 
 ------------------------------------------------------------------------
 
 ## 3.3 Preparación de los Datos
 
-Incluye: - Conversión de fechas a formato datetime\
-- Generación de columnas derivadas: **AÑO**, **MES**, **MES_AÑO**\
-- Limpieza de texto en campos categóricos\
-- Agrupaciones y sumatorias por variables clave\
-- Validación de tipos de datos\
+Incluye: - Conversión de fechas a formato datetime
+- Generación de columnas derivadas: **AÑO**, **MES**, **MES_AÑO**
+- Limpieza de texto en campos categóricos
+- Agrupaciones y sumatorias por variables clave
+- Validación de tipos de datos
 - Eliminación de filas duplicadas
 
 ------------------------------------------------------------------------
@@ -105,9 +106,9 @@ Cada integrante desarrolla una visualización estadística:
 
 ## 3.5 Evaluación
 
-Incluye: - Validación visual de gráficos\
-- Interpretación estadística\
-- Consistencia entre resultados y preguntas del negocio\
+Incluye: - Validación visual de gráficos
+- Interpretación estadística
+- Consistencia entre resultados y preguntas del negocio
 - Cruce entre variables para detectar correlaciones útiles
 
 ------------------------------------------------------------------------
@@ -301,7 +302,7 @@ Presentar un cuaderno completamente funcional, limpio y replicable que documente
 
 ### Objetivo
 
-Comunicar de manera breve, impactante y profesional el valor del proyecto, decisiones técnicas y resultados obtenidos.
+Comunicar de manera breve, impactante y profesional el valor del proyecto, las decisiones técnicas y los resultados obtenidos.
 
 ### Responsables
 
@@ -344,23 +345,23 @@ Complementar el proyecto con una visualización interactiva que fortalezca la co
 
 # 5. Bitácora del Equipo
 
-Cada integrante documentará diariamente: - Actividad realizada\
-- Código implementado\
-- Hallazgos relevantes\
-- Problemas encontrados y soluciones\
-- Capturas de gráficas y explicaciones
+Cada integrante documentará diariamente: - Actividad realizada.
+- Código implementado.
+- Hallazgos relevantes.
+- Problemas encontrados y soluciones.
+- Capturas de gráficas y explicaciones.
 
 ------------------------------------------------------------------------
 
 # 6. Conclusiones Esperadas
 
--   El hurto por medios informáticos es el delito dominante\
--   Bogotá concentra la mayor cantidad de casos\
+-   El hurto por medios informáticos es el delito dominante.
+-   Bogotá concentra la mayor cantidad de casos.
 -   Crecimiento notorio en delitos de acceso abusivo y violación de
-    datos\
--   Patrones fuertes en phishing y suplantación digital\
--   Impacto económico significativo por transferencias no autorizadas\
--   Tendencia creciente de ciberdelitos en la última década
+    datos.
+-   Patrones fuertes en phishing y suplantación digital.
+-   Impacto económico significativo por transferencias no autorizadas.
+-   Tendencia creciente de ciberdelitos en la última década.
 
 ------------------------------------------------------------------------
 ## Diagrama RACI (Roles y Responsabilidades)
