@@ -329,7 +329,7 @@ Complementar el proyecto con una visualización interactiva que fortalezca la co
 
 ### Responsables
 
-* **Soa** o el integrante interesado en recuperar nota.
+* **Camila** o el integrante interesado en recuperar nota.
 
 ### Entregables
 
