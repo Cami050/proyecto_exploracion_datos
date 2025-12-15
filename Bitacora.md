@@ -44,9 +44,8 @@ El equipo está conformado por:
 
 El objetivo es comprender cómo evolucionan los delitos informáticos, su
 Distribución por regiones y cómo cambian en el tiempo.
-## Preguntas problemáticas 
 
-| Compañero | Gráfica Asignada | Pregunta Problemático |
+| Compañero | Gráfica Asignada | Pregunta de las graficas |
 | :--- | :--- | :--- |
 | Andrés Padilla | Gráfico de Barras | ¿Qué tipos de delitos informáticos se presentan con mayor frecuencia según la descripción de la conducta registrada? |
 | Camila Rivera | Gráfico de Líneas | ¿Cómo ha evolucionado el número total de delitos informáticos a lo largo de los años según la fecha del hecho? |
@@ -61,10 +60,14 @@ Distribución por regiones y cómo cambian en el tiempo.
 
 ## 3.2 Comprensión de los Datos
 
-El dataset contiene: - **FECHA HECHO** - **DEPARTAMENTO / MUNICIPIO** -
-**DESCRIPCION CONDUCTA** - **CANTIDAD**
+El dataset contiene: 
+- **FECHA HECHO**
+- **DEPARTAMENTO / MUNICIPIO**
+- **DESCRIPCION CONDUCTA**
+- **CANTIDAD**
 
-Actividades: - Verificar valores faltantes
+Actividades: 
+- Verificar valores faltantes
 - Identificar inconsistencias en nombres de municipios/departamentos
 - Revisar formatos de fechas
 - Realizar primeras estadísticas descriptivas
@@ -74,7 +77,8 @@ Actividades: - Verificar valores faltantes
 
 ## 3.3 Preparación de los Datos
 
-Incluye: - Conversión de fechas a formato datetime
+Incluye: 
+- Conversión de fechas a formato datetime
 - Generación de columnas derivadas: **AÑO**, **MES**, **MES_AÑO**
 - Limpieza de texto en campos categóricos
 - Agrupaciones y sumatorias por variables clave
@@ -122,9 +126,11 @@ Incluye: - Validación visual de gráficos
 
 ## 3.6 Despliegue / Comunicación
 
-Entregables obligatorios: - Informe PDF documentado (ASUM‑DM completo) -
-Notebook en Google Colab - Repositorio GitHub con código, datos y
-documentación - Presentación tipo elevator pitch
+Entregables obligatorios: 
+- Informe PDF documentado (ASUM‑DM completo).
+- Notebook en Google Colab
+- Repositorio GitHub con código, datos y documentación
+- Presentación tipo elevator pitch
 
 Entregable opcional: - Dashboard interactivo (Power BI o equivalente)
 
